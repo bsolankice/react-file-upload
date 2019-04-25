@@ -1,0 +1,26 @@
+​.file-list-section{
+    padding: 15px;
+}
+
+.file-card{
+    height: 50px;
+    width: 80%;
+    padding: 20px;
+    margin-bottom: 10px;
+    vertical-align: bottom;
+    cursor: pointer;
+}
+.file-card.active{
+    border-left: 10px solid #3E78E3;
+    background: #fff;
+    border-radius: 5px 0px 0px 5px;
+    -moz-box-shadow:    1px 1px 2px 2px #ccc;
+    -webkit-box-shadow: 1px 1px 2px 2px #ccc;
+    box-shadow:         1px 1px 2px 2px #ccc;
+}
+.file-card .file-name{
+    height: 100%;
+}
+​.file-card .file-name{
+    height: 100%;
+}

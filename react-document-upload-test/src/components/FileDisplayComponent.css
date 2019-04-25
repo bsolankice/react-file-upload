@@ -1,0 +1,14 @@
+.file-content {
+    width: 70%;
+    float: left;
+}
+.file-title{
+    padding: 15px;
+    border-bottom: 2px solid #e2e2e2;
+    background: #3E78E3;
+    color: #fff;
+} 
+.file-content-data{
+    height: 100vh;
+    /* width: 70%; */
+}

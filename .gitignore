@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+react-document-upload-test/node_modules
+react-document-upload-test/.pnp
+react-document-upload-test/.pnp.js
+
+# testing
+react-document-upload-test/coverage
+
+# production
+react-document-upload-test/build
+
+# misc
+react-document-upload-test/.DS_Store
+react-document-upload-test/.env.local
+react-document-upload-test/.env.development.local
+react-document-upload-test/.env.test.local
+react-document-upload-test/.env.production.local
+
+react-document-upload-test/npm-debug.log*
+react-document-upload-test/yarn-debug.log*
+yarn-error.log*

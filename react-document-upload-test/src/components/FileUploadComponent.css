@@ -1,0 +1,33 @@
+.upload-btn-wrapper {
+  position: relative;
+  overflow: hidden;
+  display: inline-block;
+}
+
+.file-text {
+  padding: 8px 20px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.upload-btn-wrapper input[type=file] {
+  font-size: 100px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  opacity: 0;
+}
+.file-upload-section{
+    padding: 15px;
+    border-bottom: 2px solid #e2e2e2;
+}
+.file-list-section{
+    padding: 15px;
+}
+.file-upload-section .heading-file-title-1{
+    float: left;
+}    
+.file-upload-section .file-upload-button{
+    text-align: right;
+    cursor: pointer;
+}

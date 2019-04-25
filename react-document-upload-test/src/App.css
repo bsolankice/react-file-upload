@@ -1,0 +1,11 @@
+.App {
+  width: 1120px;
+  margin: 0 auto;
+  height:100vh;
+}
+.App .side-bar{
+  float: left;
+  width: 30%;
+  height: 100%;
+  background: #F3F3F3;
+}
